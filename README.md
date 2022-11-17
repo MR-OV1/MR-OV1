@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm MAHMUD HASAN OVIMAHMUD HASAN OVI</h1>
+<h1 align="center">Hi 👋, I'm MAHMUD HASAN OVI</h1>
 <h3 align="center">A TOOLS frontend developer from BANGLADESH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovi-909&label=Profile%20views&color=0e75b6&style=flat" alt="ovi-909" /> </p>
