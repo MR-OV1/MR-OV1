@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=It's+a+Brand+Mr-Ovi+;𝐅𝐨𝐥𝐥𝐨𝐰+𝐌𝐲+𝐆𝐢𝐭𝐡𝐮𝐛+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=It's+a+NOOB+MR-OV1+;PLIS+𝐅𝐨𝐥𝐥𝐨𝐰+𝐌𝐲+𝐆𝐢𝐭𝐡𝐮𝐛+)](https://git.io/typing-svg)
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
 
